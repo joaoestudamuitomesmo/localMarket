@@ -2,19 +2,961 @@
     {
         "id": 1,
         "desc": "Freddie Mercury",
-        "imagem": "../../public/",
+        "imagem": "../../public/freddie_mercury.jpg",
         "sal": "35000.00"
     },
     {
         "id": 2,
         "desc": "Kobe Bryant",
-        "imagem": "../../public/",
+        "imagem": "../../public/kobe_bryant.jpg",
         "sal": "25000.00"
     },
     {
         "id": 3,
         "desc": "Michael Jackson",
-        "imagem": "../../public/",
+        "imagem": "../../public/michael_jackson.jpg",
         "sal": "65000.00"
+    },
+    {
+        "id": 4,
+        "desc": "Michael Jordan",
+        "imagem": "../../public/michael_jordan.jpg",
+        "sal": "98000.00"
+    },
+    {
+        "id": 5,
+        "desc": "Ayrton Senna",
+        "imagem": "../../public/ayrton_senna.jpg",
+        "sal": "85000.00"
+    },
+    {
+        "id": 6,
+        "desc": "Muhammad Ali",
+        "imagem": "../../public/muhammad_ali.jpg",
+        "sal": "75000.00"
+    },
+    {
+        "id": 7,
+        "desc": "Pelé",
+        "imagem": "../../public/pele.jpg",
+        "sal": "100000.00"
+    },
+    {
+        "id": 8,
+        "desc": "Bruce Lee",
+        "imagem": "../../public/bruce_lee.jpg",
+        "sal": "55000.00"
+    },
+    {
+        "id": 9,
+        "desc": "Tupac Shakur",
+        "imagem": "../../public/tupac_shakur.jpg",
+        "sal": "45000.00"
+    },
+    {
+        "id": 10,
+        "desc": "Cristiano Ronaldo",
+        "imagem": "../../public/cristiano_ronaldo.jpg",
+        "sal": "95000.00"
+    },
+    {
+        "id": 11,
+        "desc": "Lionel Messi",
+        "imagem": "../../public/lionel_messi.jpg",
+        "sal": "95000.00"
+    },
+    {
+        "id": 12,
+        "desc": "Ronaldinho Gaúcho",
+        "imagem": "../../public/ronaldinho_gaucho.jpg",
+        "sal": "70000.00"
+    },
+    {
+        "id": 13,
+        "desc": "Snoop Dogg",
+        "imagem": "../../public/snoop_dogg.jpg",
+        "sal": "42000.00"
+    },
+    {
+        "id": 14,
+        "desc": "Keanu Reeves",
+        "imagem": "../../public/keanu_reeves.jpg",
+        "sal": "60000.00"
+    },
+    {
+        "id": 15,
+        "desc": "Mike Tyson",
+        "imagem": "../../public/mike_tyson.jpg",
+        "sal": "80000.00"
+    },
+    {
+        "id": 16,
+        "desc": "Nikola Tesla",
+        "imagem": "../../public/nikola_tesla.jpg",
+        "sal": "150000.00"
+    },
+    {
+        "id": 17,
+        "desc": "Jon Jones",
+        "imagem": "../../public/jon_jones.jpg",
+        "sal": "50000.00"
+    },
+    {
+        "id": 18,
+        "desc": "Bob Marley",
+        "imagem": "../../public/bob_marley.jpg",
+        "sal": "48000.00"
+    },
+    {
+        "id": 19,
+        "desc": "Tiger Woods",
+        "imagem": "../../public/tiger_woods.jpg",
+        "sal": "68000.00"
+    },
+    {
+        "id": 20,
+        "desc": "Julius Robert Oppenheimer",
+        "imagem": "../../public/julius_robert_oppenheimer.jpg",
+        "sal": "120000.00"
+    },
+    {
+        "id": 21,
+        "desc": "LeBron James",
+        "imagem": "../../public/lebron_james.jpg",
+        "sal": "99000.00"
+    },
+    {
+        "id": 22,
+        "desc": "Eminem",
+        "imagem": "../../public/eminem.jpg",
+        "sal": "55000.00"
+    },
+    {
+        "id": 23,
+        "desc": "Usain Bolt",
+        "imagem": "../../public/usain_bolt.jpg",
+        "sal": "72000.00"
+    },
+    {
+        "id": 24,
+        "desc": "Lewis Hamilton",
+        "imagem": "../../public/lewis_hamilton.jpg",
+        "sal": "88000.00"
+    },
+    {
+        "id": 25,
+        "desc": "Arnold Schwarzenegger",
+        "imagem": "../../public/arnold_schwarzenegger.jpg",
+        "sal": "90000.00"
+    },
+    {
+        "id": 26,
+        "desc": "Sylvester Stallone",
+        "imagem": "../../public/sylvester_stallone.jpg",
+        "sal": "80000.00"
+    },
+    {
+        "id": 27,
+        "desc": "Charles do Bronx",
+        "imagem": "../../public/charles_do_bronx.jpg",
+        "sal": "45000.00"
+    },
+    {
+        "id": 28,
+        "desc": "Mano Brown",
+        "imagem": "../../public/mano_brown.jpg",
+        "sal": "60000.00"
+    },
+    {
+        "id": 29,
+        "desc": "Chorão",
+        "imagem": "../../public/chorao.jpg",
+        "sal": "40000.00"
+    },
+    {
+        "id": 30,
+        "desc": "Tim Maia",
+        "imagem": "../../public/tim_maia.jpg",
+        "sal": "55000.00"
+    },
+    {
+        "id": 31,
+        "desc": "Albert Einstein",
+        "imagem": "../../public/albert_einstein.jpg",
+        "sal": "140000.00"
+    },
+    {
+        "id": 32,
+        "desc": "Leonardo da Vinci",
+        "imagem": "../../public/leonardo_da_vinci.jpg",
+        "sal": "200000.00"
+    },
+    {
+        "id": 33,
+        "desc": "Steve Jobs",
+        "imagem": "../../public/steve_jobs.jpg",
+        "sal": "110000.00"
+    },
+    {
+        "id": 34,
+        "desc": "Elon Musk",
+        "imagem": "../../public/elon_musk.jpg",
+        "sal": "130000.00"
+    },
+    {
+        "id": 35,
+        "desc": "Tony Hawk",
+        "imagem": "../../public/tony_hawk.jpg",
+        "sal": "38000.00"
+    },
+    {
+        "id": 36,
+        "desc": "Gordon Ramsay",
+        "imagem": "../../public/gordon_ramsay.jpg",
+        "sal": "65000.00"
+    },
+    {
+        "id": 37,
+        "desc": "Jackie Chan",
+        "imagem": "../../public/jackie_chan.jpg",
+        "sal": "75000.00"
+    },
+    {
+        "id": 38,
+        "desc": "Tom Cruise",
+        "imagem": "../../public/tom_cruise.jpg",
+        "sal": "87000.00"
+    },
+    {
+        "id": 39,
+        "desc": "Dwayne Johnson",
+        "imagem": "../../public/dwayne_johnson.jpg",
+        "sal": "82000.00"
+    },
+    {
+        "id": 40,
+        "desc": "Zinedine Zidane",
+        "imagem": "../../public/zinedine_zidane.jpg",
+        "sal": "78000.00"
+    },
+    {
+        "id": 41,
+        "desc": "David Beckham",
+        "imagem": "../../public/david_beckham.jpg",
+        "sal": "73000.00"
+    },
+    {
+        "id": 42,
+        "desc": "Travis Scott",
+        "imagem": "../../public/travis_scott.jpg",
+        "sal": "52000.00"
+    },
+    {
+        "id": 43,
+        "desc": "Drake",
+        "imagem": "../../public/drake.jpg",
+        "sal": "58000.00"
+    },
+    {
+        "id": 44,
+        "desc": "50 Cent",
+        "imagem": "../../public/50_cent.jpg",
+        "sal": "41000.00"
+    },
+    {
+        "id": 45,
+        "desc": "Jay-Z",
+        "imagem": "../../public/jay_z.jpg",
+        "sal": "95000.00"
+    },
+    {
+        "id": 46,
+        "desc": "Beyoncé",
+        "imagem": "../../public/beyonce.jpg",
+        "sal": "98000.00"
+    },
+    {
+        "id": 47,
+        "desc": "Rihanna",
+        "imagem": "../../public/rihanna.jpg",
+        "sal": "92000.00"
+    },
+    {
+        "id": 48,
+        "desc": "Lady Gaga",
+        "imagem": "../../public/lady_gaga.jpg",
+        "sal": "70000.00"
+    },
+    {
+        "id": 49,
+        "desc": "Robert Downey Jr.",
+        "imagem": "../../public/robert_downey_jr.jpg",
+        "sal": "99000.00"
+    },
+    {
+        "id": 50,
+        "desc": "Cillian Murphy",
+        "imagem": "../../public/cillian_murphy.jpg",
+        "sal": "62000.00"
+    },
+    {
+        "id": 51,
+        "desc": "Manoel Gomes (Caneta Azul)",
+        "imagem": "../../public/manoel_gomes.jpg",
+        "sal": "999999.99"
+    },
+    {
+        "id": 52,
+        "desc": "Ednaldo Pereira",
+        "imagem": "../../public/ednaldo_pereira.jpg",
+        "sal": "888888.88"
+    },
+    {
+        "id": 53,
+        "desc": "Luva de Pedreiro",
+        "imagem": "../../public/luva_de_pedreiro.jpg",
+        "sal": "15000.00"
+    },
+    {
+        "id": 54,
+        "desc": "Toguro",
+        "imagem": "../../public/toguro.jpg",
+        "sal": "45000.00"
+    },
+    {
+        "id": 55,
+        "desc": "Casimiro (Cazé)",
+        "imagem": "../../public/casimiro.jpg",
+        "sal": "85000.00"
+    },
+    {
+        "id": 56,
+        "desc": "Diogo Defante",
+        "imagem": "../../public/diogo_defante.jpg",
+        "sal": "30000.00"
+    },
+    {
+        "id": 57,
+        "desc": "Craque Neto",
+        "imagem": "../../public/craque_neto.jpg",
+        "sal": "67000.00"
+    },
+    {
+        "id": 58,
+        "desc": "Vampeta",
+        "imagem": "../../public/vampeta.jpg",
+        "sal": "50000.00"
+    },
+    {
+        "id": 59,
+        "desc": "Aloísio Chulapa",
+        "imagem": "../../public/aloisio_chulapa.jpg",
+        "sal": "51000.00"
+    },
+    {
+        "id": 60,
+        "desc": "MC Poze do Rodo",
+        "imagem": "../../public/mc_poze_do_rodo.jpg",
+        "sal": "90000.00"
+    },
+    {
+        "id": 61,
+        "desc": "Inês Brasil",
+        "imagem": "../../public/ines_brasil.jpg",
+        "sal": "69000.00"
+    },
+    {
+        "id": 62,
+        "desc": "Chico Moedas",
+        "imagem": "../../public/chico_moedas.jpg",
+        "sal": "1200.00"
+    },
+    {
+        "id": 63,
+        "desc": "Bora Bill",
+        "imagem": "../../public/bora_bill.jpg",
+        "sal": "10000.00"
+    },
+    {
+        "id": 64,
+        "desc": "Tiringa",
+        "imagem": "../../public/tiringa.jpg",
+        "sal": "22000.00"
+    },
+    {
+        "id": 65,
+        "desc": "Márcia Sensitiva",
+        "imagem": "../../public/marcia_sensitiva.jpg",
+        "sal": "77000.00"
+    },
+    {
+        "id": 66,
+        "desc": "Serjão Fogueteiro",
+        "imagem": "../../public/serjao_fogueteiro.jpg",
+        "sal": "84000.00"
+    },
+    {
+        "id": 67,
+        "desc": "Canarinho Pistola",
+        "imagem": "../../public/canarinho_pistola.jpg",
+        "sal": "10000.00"
+    },
+    {
+        "id": 68,
+        "desc": "Pedro Certezas",
+        "imagem": "../../public/pedro_certezas.jpg",
+        "sal": "18000.00"
+    },
+    {
+        "id": 69,
+        "desc": "Rodrigo Faro (Ele gosta)",
+        "imagem": "../../public/rodrigo_faro.jpg",
+        "sal": "55000.00"
+    },
+    {
+        "id": 70,
+        "desc": "Faustão",
+        "imagem": "../../public/faustao.jpg",
+        "sal": "120000.00"
+    },
+    {
+        "id": 71,
+        "desc": "Silvio Santos",
+        "imagem": "../../public/silvio_santos.jpg",
+        "sal": "150000.00"
+    },
+    {
+        "id": 72,
+        "desc": "Jailson Mendes (Pai de Família)",
+        "imagem": "../../public/jailson_mendes.jpg",
+        "sal": "80000.00"
+    },
+    {
+        "id": 73,
+        "desc": "Kid Bengala",
+        "imagem": "../../public/kid_bengala.jpg",
+        "sal": "44000.00"
+    },
+    {
+        "id": 74,
+        "desc": "MC Daniel (Falcão)",
+        "imagem": "../../public/mc_daniel.jpg",
+        "sal": "70000.00"
+    },
+    {
+        "id": 75,
+        "desc": "Whindersson Nunes",
+        "imagem": "../../public/whindersson_nunes.jpg",
+        "sal": "95000.00"
+    },
+    {
+        "id": 76,
+        "desc": "Igão (Podpah)",
+        "imagem": "../../public/igao_podpah.jpg",
+        "sal": "60000.00"
+    },
+    {
+        "id": 77,
+        "desc": "Mítico (Podpah)",
+        "imagem": "../../public/mitico_podpah.jpg",
+        "sal": "60000.00"
+    },
+    {
+        "id": 78,
+        "desc": "Xamã",
+        "imagem": "../../public/xama.jpg",
+        "sal": "50000.00"
+    },
+    {
+        "id": 79,
+        "desc": "Dilma Rousseff",
+        "imagem": "../../public/dilma_rousseff.jpg",
+        "sal": "35000.00"
+    },
+    {
+        "id": 80,
+        "desc": "Galvão Bueno",
+        "imagem": "../../public/galvao_bueno.jpg",
+        "sal": "110000.00"
+    },
+    {
+        "id": 81,
+        "desc": "Neymar Jr.",
+        "imagem": "../../public/neymar_jr.jpg",
+        "sal": "97000.00"
+    },
+    {
+        "id": 82,
+        "desc": "Vinicius Jr.",
+        "imagem": "../../public/vinicius_jr.jpg",
+        "sal": "83000.00"
+    },
+    {
+        "id": 83,
+        "desc": "Kylian Mbappé",
+        "imagem": "../../public/kylian_mbappe.jpg",
+        "sal": "99000.00"
+    },
+    {
+        "id": 84,
+        "desc": "Conor McGregor",
+        "imagem": "../../public/conor_mcgregor.jpg",
+        "sal": "85000.00"
+    },
+    {
+        "id": 85,
+        "desc": "Anderson Silva",
+        "imagem": "../../public/anderson_silva.jpg",
+        "sal": "76000.00"
+    },
+    {
+        "id": 86,
+        "desc": "José Aldo",
+        "imagem": "../../public/jose_aldo.jpg",
+        "sal": "68000.00"
+    },
+    {
+        "id": 87,
+        "desc": "Khabib Nurmagomedov",
+        "imagem": "../../public/khabib_nurmagomedov.jpg",
+        "sal": "78000.00"
+    },
+    {
+        "id": 88,
+        "desc": "Jorge Ben Jor",
+        "imagem": "../../public/jorge_ben_jor.jpg",
+        "sal": "62000.00"
+    },
+    {
+        "id": 89,
+        "desc": "Raul Seixas",
+        "imagem": "../../public/raul_seixas.jpg",
+        "sal": "72000.00"
+    },
+    {
+        "id": 90,
+        "desc": "Renato Russo",
+        "imagem": "../../public/renato_russo.jpg",
+        "sal": "69000.00"
+    },
+    {
+        "id": 91,
+        "desc": "Mamonas Assassinas",
+        "imagem": "../../public/mamonas_assassinas.jpg",
+        "sal": "95000.00"
+    },
+    {
+        "id": 92,
+        "desc": "Seu Jorge",
+        "imagem": "../../public/seu_jorge.jpg",
+        "sal": "58000.00"
+    },
+    {
+        "id": 93,
+        "desc": "Djonga",
+        "imagem": "../../public/djonga.jpg",
+        "sal": "48000.00"
+    },
+    {
+        "id": 94,
+        "desc": "Orochi",
+        "imagem": "../../public/orochi.jpg",
+        "sal": "42000.00"
+    },
+    {
+        "id": 95,
+        "desc": "Matuê",
+        "imagem": "../../public/matue.jpg",
+        "sal": "75000.00"
+    },
+    {
+        "id": 96,
+        "desc": "Alanzoka",
+        "imagem": "../../public/alanzoka.jpg",
+        "sal": "65000.00"
+    },
+    {
+        "id": 97,
+        "desc": "Cellbit",
+        "imagem": "../../public/cellbit.jpg",
+        "sal": "62000.00"
+    },
+    {
+        "id": 98,
+        "desc": "Felipe Neto",
+        "imagem": "../../public/felipe_neto.jpg",
+        "sal": "88000.00"
+    },
+    {
+        "id": 99,
+        "desc": "Luccas Neto",
+        "imagem": "../../public/luccas_neto.jpg",
+        "sal": "79000.00"
+    },
+    {
+        "id": 100,
+        "desc": "Monark",
+        "imagem": "../../public/monark.jpg",
+        "sal": "35000.00"
+    },
+    {
+        "id": 101,
+        "desc": "Bluezão",
+        "imagem": "../../public/bluezao.jpg",
+        "sal": "12000.00"
+    },
+    {
+        "id": 102,
+        "desc": "Away Nilzer",
+        "imagem": "../../public/away_nilzer.jpg",
+        "sal": "28000.00"
+    },
+    {
+        "id": 103,
+        "desc": "Luangameplay",
+        "imagem": "../../public/luangameplay.jpg",
+        "sal": "9000.00"
+    },
+    {
+        "id": 104,
+        "desc": "Carlinhos",
+        "imagem": "../../public/carlinhos.jpg",
+        "sal": "50000.00"
+    },
+    {
+        "id": 105,
+        "desc": "Mendigo do Pânico",
+        "imagem": "../../public/mendigo_do_panico.jpg",
+        "sal": "27000.00"
+    },
+    {
+        "id": 106,
+        "desc": "Bocão 157",
+        "imagem": "../../public/bocao_157.jpg",
+        "sal": "18000.00"
+    },
+    {
+        "id": 107,
+        "desc": "Ronaldo Fenômeno",
+        "imagem": "../../public/ronaldo_fenomeno.jpg",
+        "sal": "92000.00"
+    },
+    {
+        "id": 108,
+        "desc": "Romário",
+        "imagem": "../../public/romario.jpg",
+        "sal": "78000.00"
+    },
+    {
+        "id": 109,
+        "desc": "Rivaldo",
+        "imagem": "../../public/rivaldo.jpg",
+        "sal": "65000.00"
+    },
+    {
+        "id": 110,
+        "desc": "Cafu",
+        "imagem": "../../public/cafu.jpg",
+        "sal": "59000.00"
+    },
+    {
+        "id": 111,
+        "desc": "Kaká",
+        "imagem": "../../public/kaka.jpg",
+        "sal": "84000.00"
+    },
+    {
+        "id": 112,
+        "desc": "Rogério Ceni",
+        "imagem": "../../public/rogerio_ceni.jpg",
+        "sal": "73000.00"
+    },
+    {
+        "id": 113,
+        "desc": "Marília Mendonça",
+        "imagem": "../../public/marilia_mendonca.jpg",
+        "sal": "94000.00"
+    },
+    {
+        "id": 114,
+        "desc": "Cristiano Araújo",
+        "imagem": "../../public/cristiano_araujo.jpg",
+        "sal": "68000.00"
+    },
+    {
+        "id": 115,
+        "desc": "Gusttavo Lima",
+        "imagem": "../../public/gusttavo_lima.jpg",
+        "sal": "98000.00"
+    },
+    {
+        "id": 116,
+        "desc": "Zeca Pagodinho",
+        "imagem": "../../public/zeca_pagodinho.jpg",
+        "sal": "74000.00"
+    },
+    {
+        "id": 117,
+        "desc": "Ratinho",
+        "imagem": "../../public/ratinho.jpg",
+        "sal": "85000.00"
+    },
+    {
+        "id": 118,
+        "desc": "Datena",
+        "imagem": "../../public/datena.jpg",
+        "sal": "68000.00"
+    },
+    {
+        "id": 119,
+        "desc": "Gil do Vigor",
+        "imagem": "../../public/gil_do_vigor.jpg",
+        "sal": "47000.00"
+    },
+    {
+        "id": 120,
+        "desc": "Luide",
+        "imagem": "../../public/luide.jpg",
+        "sal": "38000.00"
+    },
+    {
+        "id": 131,
+        "desc": "Beiçola do Privacy",
+        "imagem": "../../public/beicola_do_privacy.jpg",
+        "sal": "45000.00"
+    },
+    {
+        "id": 132,
+        "desc": "Pastor Metralhadora",
+        "imagem": "../../public/pastor_metralhadora.jpg",
+        "sal": "69000.00"
+    },
+    {
+        "id": 133,
+        "desc": "Tio Paulo",
+        "imagem": "../../public/tio_paulo.jpg",
+        "sal": "500.00"
+    },
+    {
+        "id": 134,
+        "desc": "Boneco do luva de pedreiro com piercing",
+        "imagem": "../../public/bonecoluvapiercing.jpg",
+        "sal": "16000.00"
+    },
+    {
+        "id": 135,
+        "desc": "Bora Bill Supremo",
+        "imagem": "../../public/bora_bill_supremo.jpg",
+        "sal": "12000.00"
+    },
+    {
+        "id": 136,
+        "desc": "Nego Ney",
+        "imagem": "../../public/nego_ney.jpg",
+        "sal": "32000.00"
+    },
+    {
+        "id": 137,
+        "desc": "Luva de Boxe",
+        "imagem": "../../public/luva_de_boxe.jpg",
+        "sal": "14000.00"
+    },
+    {
+        "id": 138,
+        "desc": "Menino do Grau",
+        "imagem": "../../public/menino_do_grau.jpg",
+        "sal": "18000.00"
+    },
+    {
+        "id": 139,
+        "desc": "Foguetes do Serjão",
+        "imagem": "../../public/foguetes_do_serjao.jpg",
+        "sal": "87000.00"
+    },
+    {
+        "id": 140,
+        "desc": "Cleiton Rasta",
+        "imagem": "../../public/cleiton_rasta.jpg",
+        "sal": "25000.00"
+    },
+    {
+        "id": 141,
+        "desc": "Rei do Camarote",
+        "imagem": "../../public/rei_do_camarote.jpg",
+        "sal": "99000.00"
+    },
+    {
+        "id": 142,
+        "desc": "Brabo Gordinho da XJ",
+        "imagem": "../../public/gordinho_xj.jpg",
+        "sal": "27000.00"
+    },
+    {
+        "id": 143,
+        "desc": "Cabeça de Gelo",
+        "imagem": "../../public/cabeca_de_gelo.jpg",
+        "sal": "22000.00"
+    },
+    {
+        "id": 144,
+        "desc": "ET Bilu",
+        "imagem": "../../public/et_bilu.jpg",
+        "sal": "88000.00"
+    },
+    {
+        "id": 145,
+        "desc": "Compadre Washington",
+        "imagem": "../../public/compadre_washington.jpg",
+        "sal": "56000.00"
+    },
+    {
+        "id": 146,
+        "desc": "Dilera",
+        "imagem": "../../public/dilera.jpg",
+        "sal": "33000.00"
+    },
+    {
+        "id": 147,
+        "desc": "Ruyter Poubel",
+        "imagem": "../../public/ruyter_poubel.jpg",
+        "sal": "91000.00"
+    },
+    {
+        "id": 148,
+        "desc": "Balela",
+        "imagem": "../../public/balela.jpg",
+        "sal": "41000.00"
+    },
+    {
+        "id": 149,
+        "desc": "Muca Muriçoca",
+        "imagem": "../../public/muca_muricoca.jpg",
+        "sal": "49000.00"
+    },
+    {
+        "id": 150,
+        "desc": "Pai Troll",
+        "imagem": "../../public/pai_troll.jpg",
+        "sal": "38000.00"
+    },
+    {
+        "id": 151,
+        "desc": "Troll Face Brasileiro",
+        "imagem": "../../public/troll_face_brasileiro.jpg",
+        "sal": "15000.00"
+    },
+    {
+        "id": 152,
+        "desc": "Gordão da XJ",
+        "imagem": "../../public/gordao_xj.jpg",
+        "sal": "62000.00"
+    },
+    {
+        "id": 153,
+        "desc": "Calvo do Campari",
+        "imagem": "../../public/calvo_do_campari.jpg",
+        "sal": "35000.00"
+    },
+    {
+        "id": 154,
+        "desc": "Mendigo Estiloso",
+        "imagem": "../../public/mendigo_estiloso.jpg",
+        "sal": "19000.00"
+    },
+    {
+        "id": 155,
+        "desc": "Véio da Havan",
+        "imagem": "../../public/veio_da_havan.jpg",
+        "sal": "120000.00"
+    },
+    {
+        "id": 156,
+        "desc": "Bebe Água na Calma",
+        "imagem": "../../public/bebe_agua_na_calma.jpg",
+        "sal": "14000.00"
+    },
+    {
+        "id": 157,
+        "desc": "MC Pipokinha",
+        "imagem": "../../public/mc_pipokinha.jpg",
+        "sal": "78000.00"
+    },
+    {
+        "id": 158,
+        "desc": "Choquei",
+        "imagem": "../../public/choquei.jpg",
+        "sal": "72000.00"
+    },
+    {
+        "id": 159,
+        "desc": "Meme do Caixão",
+        "imagem": "../../public/meme_do_caixao.jpg",
+        "sal": "55000.00"
+    },
+    {
+        "id": 160,
+        "desc": "Garoto do Dream League",
+        "imagem": "../../public/garoto_dream_league.jpg",
+        "sal": "8000.00"
+    },
+    {
+        "id": 161,
+        "desc": "Vampetaço",
+        "imagem": "../../public/vampetaco.jpg",
+        "sal": "69000.00"
+    },
+    {
+        "id": 162,
+        "desc": "Lázaro Barbosa",
+        "imagem": "../../public/lazaro_barbosa.jpg",
+        "sal": "17171.00"
+    },
+    {
+        "id": 163,
+        "desc": "Gêmeo Lacração",
+        "imagem": "../../public/gemeo_lacracao.jpg",
+        "sal": "25000.00"
+    },
+    {
+        "id": 164,
+        "desc": "Mãe do Fiuk",
+        "imagem": "../../public/mae_do_fiuk.jpg",
+        "sal": "30000.00"
+    },
+    {
+        "id": 165,
+        "desc": "Talarico Anônimo",
+        "imagem": "../../public/talarico_anonimo.jpg",
+        "sal": "7777.00"
+    },
+    {
+        "id": 166,
+        "desc": "Zé Pequeno do Grau",
+        "imagem": "../../public/ze_pequeno_do_grau.jpg",
+        "sal": "11000.00"
+    },
+    {
+        "id": 167,
+        "desc": "Juninho Motoboy",
+        "imagem": "../../public/juninho_motoboy.jpg",
+        "sal": "9000.00"
+    },
+    {
+        "id": 168,
+        "desc": "Professor Girafales BR",
+        "imagem": "../../public/professor_girafales_br.jpg",
+        "sal": "26000.00"
+    },
+    {
+        "id": 169,
+        "desc": "Mestre dos Magos da Shopee",
+        "imagem": "../../public/mestre_dos_magos_shopee.jpg",
+        "sal": "13000.00"
+    },
+    {
+        "id": 170,
+        "desc": "Calabreso",
+        "imagem": "../../public/calabreso.jpg",
+        "sal": "54000.00"
     }
 ]
