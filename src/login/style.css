@@ -10,3 +10,29 @@
     height: 250px;
     border-radius: 50%;
 }
+
+.error-div{
+    display: none;
+}
+
+.formulario{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    gap: 1vh;
+}
+
+.eye:hover{
+    cursor: pointer;
+}
+
+.wrap-input-label{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 35px;
+    width: 350px;
+    align-items: center;
+}

@@ -16,7 +16,7 @@ except ImportError:
 JSON_FILE = "data.json"
 OUTPUT_DIR = r"C:\Users\Aluno\Desktop\localMarket\public"
 TARGET_SIZE = (300, 300)
-LIMIT = 20
+LIMIT = 120
 
 def setup_directory(path):
     """Creates the output directory if it doesn't exist."""
@@ -110,7 +110,7 @@ def main():
         # Add a polite, randomized delay between entities to fly under the radar
         if index < LIMIT - 1:
             delay = random.uniform(2.5, 4.5)
-            print(f"[*] Waiting {delay:.1f} seconds before the next search...")
+            print(f"[*] {index} Waiting {delay:.1f} seconds before the next search...")
             time.sleep(delay)
 
 if __name__ == "__main__":
