@@ -170,7 +170,7 @@
     {
         "id": 29,
         "desc": "Chorão",
-        "imagem": "../../public/chorao.jpg",
+        "imagem": "../../public/chorao.webp",
         "sal": "40000.00"
     },
     {
@@ -607,8 +607,8 @@
     },
     {
         "id": 102,
-        "desc": "Away Nilzer",
-        "imagem": "../../public/away_nilzer.jpg",
+        "desc": "Juju do pix",
+        "imagem": "../../public/jujudopix.jpg",
         "sal": "28000.00"
     },
     {
@@ -619,20 +619,20 @@
     },
     {
         "id": 104,
-        "desc": "Carlinhos",
-        "imagem": "../../public/carlinhos.jpg",
+        "desc": "Mr Beast",
+        "imagem": "../../public/mrbeast.jpg",
         "sal": "50000.00"
     },
     {
         "id": 105,
-        "desc": "Mendigo do Pânico",
-        "imagem": "../../public/mendigo_do_panico.jpg",
+        "desc": "Nego ney",
+        "imagem": "../../public/negoney.jpg",
         "sal": "27000.00"
     },
     {
         "id": 106,
-        "desc": "Bocão 157",
-        "imagem": "../../public/bocao_157.jpg",
+        "desc": "Boca de 09",
+        "imagem": "../../public/bocade09.jpg",
         "sal": "18000.00"
     },
     {
@@ -679,8 +679,8 @@
     },
     {
         "id": 114,
-        "desc": "Cristiano Araújo",
-        "imagem": "../../public/cristiano_araujo.jpg",
+        "desc": "Luva de receba",
+        "imagem": "../../public/cristiano_araujo.webp",
         "sal": "68000.00"
     },
     {
@@ -715,8 +715,8 @@
     },
     {
         "id": 120,
-        "desc": "Luide",
-        "imagem": "../../public/luide.jpg",
+        "desc": "Tung Tung Tung Sahur",
+        "imagem": "../../public/tttsahur.jpg",
         "sal": "38000.00"
     }
 ]
