@@ -35,10 +35,25 @@ document.addEventListener("DOMContentLoaded", function (){
                     <div class="card-body">
                         <h5 class="card-title">${produto.desc}</h5>
                         <p class="card-text">${produto.sal}</p>
-                        <a href="#" class="btn btn-primary">Adicionar ao carrinho</a>
+                        <a href="#" class="btn btn-primary adicionar" data-indice="${index}">
+                            Adicionar ao carrinho
+                        </a>
                     </div>
                 </div>`
             produtosContainer.appendChild(card);
         });
     }).catch((error) => console.log("Erro ao carregar dados", error))
+
+    document.getElementById("produtos-container").addEventListener("click", function(event){
+        const btn = event.target.closest(".adicionar")
+        if(!btn) return
+
+        const indexDoProduto = btn.dataset.indice
+        const produtoSelecionado = produtos[indexDoProduto]
+        let carrinho = JSON.parse(localStorage.getItem("carrinho")) || []
+        carrinho.push(produtoSelecionado)
+        localStorage.setItem("carrinho", JSON.stringify(carrinho))
+        alert("Produto adicionado com sucesso!!!")
+    })
 })
+
